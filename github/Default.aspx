@@ -5,8 +5,8 @@
 </asp:Content>
 <asp:Content runat="server" ID="BodyContent" ContentPlaceHolderID="MainContent">
    <asp:Label runat="server" Text="Hi I am Aesha."> </asp:Label>
-    <asp:Content runat="server" ID="Content1" ContentPlaceHolderID="MainContent">
+    
    <asp:Label ID="Label1" runat="server" Text="Hi I am Heta."> </asp:Label>
 
-
+       <asp:Label ID="Label2" runat="server" Text="Hi."> </asp:Label>
 </asp:Content>
