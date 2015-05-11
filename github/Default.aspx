@@ -8,5 +8,5 @@
     
    <asp:Label ID="Label1" runat="server" Text="Hi I am Heta."> </asp:Label>
 
-       <asp:Label ID="Label2" runat="server" Text="Hi."> </asp:Label>
+    <asp:Label ID="Label2" runat="server" Text="Hi."> </asp:Label>
 </asp:Content>
