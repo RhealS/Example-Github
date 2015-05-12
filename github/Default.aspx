@@ -12,4 +12,5 @@
 
     <asp:Label ID="Label3" runat="server" Text="test label"> </asp:Label>
 
+        <asp:Label ID="Label4" runat="server" Text="test label 2"> </asp:Label>
 </asp:Content>
